@@ -1,11 +1,7 @@
 @charset "utf-8";
-
-/* @import */
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic');
 @import url('https://cdn.rawgit.com/wowballcdn/cdn/master/colorset/AdminLTE.css');
 @import url('https://cdn.rawgit.com/wowballcdn/cdn/master/colorset/AdminLTE-Skins.css');
-
-/* Common */
 body { font-size:13px; background-color:#fff; background-repeat: no-repeat; background-position: center bottom; background-attachment:fixed; background-size:cover; }
 body.is-mobile { font-size:14px; }
 a { color: rgb(51, 51, 51); cursor: pointer; text-decoration: none; }
